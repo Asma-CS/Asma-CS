@@ -11,7 +11,7 @@ ASMA AL-MALIKI — GitHub Profile README
 
 <div align="center">
 
-# ASMA AL-MALIKI
+# Asma Almalki
 
 ### A Showcase of My Best Work!
 
@@ -19,8 +19,11 @@ Computer Science Student . Technology Enthusiast . Continuously Learning
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github)](https://github.com/Asma-CS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/asma-almalki-cs/en)
+<p align="center">
+  <a href="https://github.com/Asma-CS"><img src="https://skillicons.dev/icons?i=github" height="55" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/asma-almalki-cs/en"><img src="https://skillicons.dev/icons?i=linkedin" height="55" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="asmamishal62@gmail.com"><img src="https://img.icons8.com/fluency/96/mail.png" height="55" /></a>
+</p>
 
 </div>
 
