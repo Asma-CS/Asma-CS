@@ -15,12 +15,12 @@ ASMA AL-MALIKI — GitHub Profile README
 
 ### A Showcase of My Best Work!
 
-Computer Science Student · AI & Data Enthusiast · Problem Solver
+Computer Science Student . Technology Enthusiast . Continuously Learning
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github)](https://github.com/YOUR-USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR-LINKEDIN-LINK)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github)](https://github.com/Asma-CS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/asma-almalki-cs/en)
 
 </div>
 
@@ -38,7 +38,7 @@ A selection of projects that represent my best work, skills, and learning journe
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/YOUR-USERNAME/predictive-maintenance-agent">
+<a href="https://github.com/Asma-CS/Project1">
   <img src="images/project1.svg" width="100%" alt="Predictive Maintenance Agent">
 </a>
 
