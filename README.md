@@ -38,7 +38,7 @@ A selection of projects that represent my best work, skills, and learning journe
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Asma-CS/Project1">
+<a href="https://github.com/Asma-CS/predictive-maintenance-agent">
   <img src="images/project1.svg" width="100%" alt="Predictive Maintenance Agent">
 </a>
 
@@ -48,12 +48,12 @@ An AI agent that analyzes industrial sensor data, detects anomalies, predicts po
 
 **Tools:** Python · Machine Learning · Excel · Hermes
 
-[View Project →](https://github.com/YOUR-USERNAME/predictive-maintenance-agent)
+[View Project →](https://github.com/Asma-CS/predictive-maintenance-agent)
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/YOUR-USERNAME/data-analysis-project">
+<a href="https://github.com/Asma-CS/data-analysis-project">
   <img src="images/project2.svg" width="100%" alt="Data Analysis Project">
 </a>
 
@@ -63,7 +63,7 @@ A data analysis project focused on cleaning, exploring, and visualizing data to 
 
 **Tools:** Python · Pandas · Excel · Data Visualization
 
-[View Project →](https://github.com/YOUR-USERNAME/data-analysis-project)
+[View Project →](https://github.com/Asma-CS/data-analysis-project)
 
 </td>
 </tr>
@@ -71,7 +71,7 @@ A data analysis project focused on cleaning, exploring, and visualizing data to 
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/YOUR-USERNAME/power-bi-dashboard">
+<a href="https://github.com/Asma-CS/power-bi-dashboard">
   <img src="images/project3.svg" width="100%" alt="Power BI Dashboard">
 </a>
 
@@ -81,12 +81,12 @@ An interactive dashboard designed to present key metrics, trends, and insights i
 
 **Tools:** Power BI · Excel · Data Cleaning · Dashboards
 
-[View Project →](https://github.com/YOUR-USERNAME/power-bi-dashboard)
+[View Project →](https://github.com/Asma-CS/power-bi-dashboard)
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/YOUR-USERNAME/programming-project">
+<a href="https://github.com/Asma-CS/programming-project">
   <img src="images/project4.svg" width="100%" alt="Programming Project">
 </a>
 
@@ -96,7 +96,7 @@ A software project demonstrating logical thinking, problem-solving, clean code, 
 
 **Tools:** C++ · Python · Algorithms · Problem Solving
 
-[View Project →](https://github.com/YOUR-USERNAME/programming-project)
+[View Project →](https://github.com/Asma-CS/programming-project)
 
 </td>
 </tr>
@@ -113,7 +113,6 @@ A software project demonstrating logical thinking, problem-solving, clean code, 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 <br>
 
