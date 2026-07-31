@@ -39,7 +39,7 @@ A selection of projects that represent my best work, skills, and learning journe
 <td width="50%" valign="top">
 
 <a href="https://github.com/Asma-CS/predictive-maintenance-agent">
-  <img src="images/project1.svg" width="100%" alt="Predictive Maintenance Agent">
+  <img src="project1.svg" width="100%" alt="Predictive Maintenance Agent">
 </a>
 
 ### Predictive Maintenance Agent
@@ -54,7 +54,7 @@ An AI agent that analyzes industrial sensor data, detects anomalies, predicts po
 <td width="50%" valign="top">
 
 <a href="https://github.com/Asma-CS/data-analysis-project">
-  <img src="images/project2.svg" width="100%" alt="Data Analysis Project">
+  <img src="project2.svg" width="100%" alt="Data Analysis Project">
 </a>
 
 ### Data Analysis Project
@@ -72,7 +72,7 @@ A data analysis project focused on cleaning, exploring, and visualizing data to 
 <td width="50%" valign="top">
 
 <a href="https://github.com/Asma-CS/power-bi-dashboard">
-  <img src="images/project3.svg" width="100%" alt="Power BI Dashboard">
+  <img src="project3.svg" width="100%" alt="Power BI Dashboard">
 </a>
 
 ### Power BI Dashboard
@@ -87,7 +87,7 @@ An interactive dashboard designed to present key metrics, trends, and insights i
 <td width="50%" valign="top">
 
 <a href="https://github.com/Asma-CS/programming-project">
-  <img src="images/project4.svg" width="100%" alt="Programming Project">
+  <img src="project4.svg" width="100%" alt="Programming Project">
 </a>
 
 ### Programming Project
