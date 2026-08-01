@@ -25,9 +25,11 @@ ASMA AL-MALIKI — GitHub Profile README
  
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-8CAACE?style=flat-square&logo=github&logoColor=white)](...)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8CAACE?style=flat-square&logo=linkedin&logoColor=white)](...)
-[![Email](https://img.shields.io/badge/Email-8CAACE?style=flat-square&logo=gmail&logoColor=white)](...)
+<p align="center">
+  <a href="https://github.com/Asma-CS"><img src="images/github.svg" width="36" height="36" alt="GitHub" title="GitHub"></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/asma-almalki-cs/en"><img src="images/linkedin.svg" width="36" height="36" alt="LinkedIn" title="LinkedIn"></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="asmamishal62@gmail.com"><img src="images/email.svg" width="36" height="36" alt="Email" title="Email"></a>
+</p>
 
 </div>
 
