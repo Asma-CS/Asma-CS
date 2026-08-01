@@ -15,15 +15,19 @@ ASMA AL-MALIKI — GitHub Profile README
 
 ### A Showcase of My Best Work!
 
-Computer Science Student . Technology Enthusiast . Continuously Learning
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com/?lines=Driven%20by%20Curiosity.;Inspired%20by%20Technology.;Always%20Learning.;That%27s%20Who%20I%20Am...%20A%20Computer%20Science%20Student.&font=Fira%20Code&center=true&width=650&height=50&color=8CAACE&vCenter=true&pause=1000&size=22"
+      alt="Typing SVG"
+    />
+  </a> 
+ 
 <br>
 
-<p align="center">
-  <a href="https://github.com/Asma-CS"><img src="https://skillicons.dev/icons?i=github" height="55" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/asma-almalki-cs/en"><img src="https://skillicons.dev/icons?i=linkedin" height="55" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="asmamishal62@gmail.com"><img src="https://img.icons8.com/fluency/96/mail.png" height="55" /></a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-8CAACE?style=flat-square&logo=github&logoColor=white)](...)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8CAACE?style=flat-square&logo=linkedin&logoColor=white)](...)
+[![Email](https://img.shields.io/badge/Email-8CAACE?style=flat-square&logo=gmail&logoColor=white)](...)
 
 </div>
 
