@@ -1,11 +1,11 @@
 <!--
 =========================================================
-ASMA AL-MALIKI — GitHub Profile README
+Asma Almalki — GitHub Profile README
 غيّري فقط:
-1) YOUR-USERNAME إلى اسم مستخدم GitHub الخاص بك.
-2) روابط المشاريع.
-3) أوصاف المشاريع.
-4) استبدلي الصور داخل مجلد images مع إبقاء الأسماء نفسها.
+1) روابط المشاريع.
+2)أوصاف المشاريع.
+3)استبدال صور داخل مجلد images مع إبقاء الأسماء نفسها.
+
 =========================================================
 -->
 
@@ -18,7 +18,7 @@ ASMA AL-MALIKI — GitHub Profile README
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com/?lines=Driven%20by%20Curiosity.;Inspired%20by%20Technology.;Always%20Learning.;That%27s%20Who%20I%20Am...%20A%20Computer%20Science%20Student.&font=Fira%20Code&center=true&width=650&height=50&color=A8C5D4&vCenter=true&pause=1000&size=22"
+      src="https://readme-typing-svg.demolab.com/?lines=Driven%20by%20Curiosity.;Inspired%20by%20Technology.;Always%20Learning.;That%27s%20Who%20I%20Am...%20A%20Computer%20Science%20Student.&font=Fira%20Code&center=true&width=650&height=50&color=8CAACE&vCenter=true&pause=1000&size=22"
       alt="Typing SVG"
     />
   </a> 
