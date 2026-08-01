@@ -13,12 +13,11 @@ Asma Almalki — GitHub Profile README
 
 # Asma Almalki
 
-### A Showcase of My Best Work!
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com/?lines=Driven%20by%20Curiosity.;Inspired%20by%20Technology.;Always%20Learning.;That%27s%20Who%20I%20Am...%20A%20Computer%20Science%20Student.&font=Fira%20Code&center=true&width=650&height=50&color=8CAACE&vCenter=true&pause=1000&size=22"
+      src="https://readme-typing-svg.demolab.com/?lines=Driven%20by%20Curiosity.;Inspired%20by%20Technology.;Always%20Learning.;That%27s%20Who%20I%20Am...%20A%20Computer%20Science%20Student.&font=Cascadia%20Code&center=true&width=650&height=50&color=8CAACE&vCenter=true&pause=1000&size=22"
       alt="Typing SVG"
     />
   </a> 
