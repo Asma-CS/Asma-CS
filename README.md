@@ -77,11 +77,11 @@ A data analysis project focused on cleaning, exploring, and visualizing data to 
   <img src="images/project3.svg" width="100%" alt="Power BI Dashboard">
 </a>
 
-### Power BI Dashboard
+### ....................
 
-An interactive dashboard designed to present key metrics, trends, and insights in a clear and organized visual format.
+............................................................................
 
-**Tools:** Power BI · Excel · Data Cleaning · Dashboards
+**Tools:** ...................
 
 [View Project →](https://github.com/Asma-CS/power-bi-dashboard)
 
@@ -92,11 +92,11 @@ An interactive dashboard designed to present key metrics, trends, and insights i
   <img src="images/project4.svg" width="100%" alt="Programming Project">
 </a>
 
-### Programming Project
+### ...........
 
-A software project demonstrating logical thinking, problem-solving, clean code, and practical programming skills.
+................................
 
-**Tools:** C++ · Python · Algorithms · Problem Solving
+**Tools:** ....................
 
 [View Project →](https://github.com/Asma-CS/programming-project)
 
