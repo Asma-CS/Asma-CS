@@ -73,8 +73,8 @@ A data analysis project focused on cleaning, exploring, and visualizing data to 
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Asma-CS/power-bi-dashboard">
-  <img src="images/project3.jpeg" width="100%" alt="Power BI Dashboard">
+<a href="https://github.com/Asma-CS/nlp">
+  <img src="images/project3.jpeg" width="100%" alt="NLP">
 </a>
 
 ### ....................
