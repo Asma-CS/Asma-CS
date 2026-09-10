@@ -44,28 +44,22 @@ A selection of projects that represent my best work, skills, and learning journe
   <img src="images/project1.jpeg" width="100%" alt="Predictive Maintenance Agent">
 </a>
 
-### Predictive Maintenance Agent
 
-An AI agent that analyzes industrial sensor data, detects anomalies, predicts potential failures, and recommends maintenance actions.
+......................................................................................
 
-**Tools:** Python · Machine Learning · Excel · Hermes
-
-[View Project →](https://github.com/Asma-CS/predictive-maintenance-agent)
+**Tools:**...............................
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Asma-CS/data-analysis-project">
-  <img src="images/project2.jpeg" width="100%" alt="Data Analysis Project">
+<a href="https://github.com/Asma-CS/Carnids-Farm-Sales-Data-Analytics">
+  <img src="images/project2.jpeg" width="100%" alt="Carnids Farm Sales Data Analytics">
 </a>
 
-### Data Analysis Project
 
-A data analysis project focused on cleaning, exploring, and visualizing data to uncover meaningful insights and support decisions.
+....................................................................................
 
-**Tools:** Python · Pandas · Excel · Data Visualization
-
-[View Project →](https://github.com/Asma-CS/data-analysis-project)
+**Tools:**......................................
 
 </td>
 </tr>
@@ -73,32 +67,26 @@ A data analysis project focused on cleaning, exploring, and visualizing data to 
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Asma-CS/nlp">
-  <img src="images/project3.jpeg" width="100%" alt="NLP">
+<a href="https://github.com/Asma-CS/Arabic-Poetry-Generation-Model">
+  <img src="images/project3.jpeg" width="100%" alt="Arabic Poetry Generation Model">
 </a>
 
-### ....................
 
 ............................................................................
 
 **Tools:** ...................
 
-[View Project →](https://github.com/Asma-CS/power-bi-dashboard)
-
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Asma-CS/programming-project">
-  <img src="images/project4.svg" width="100%" alt="Programming Project">
+<a href="https://github.com/Asma-CS/ai">
+  <img src="images/project4.svg" width="100%" alt="AI">
 </a>
 
-### ...........
 
 ................................
 
 **Tools:** ....................
-
-[View Project →](https://github.com/Asma-CS/programming-project)
 
 </td>
 </tr>
