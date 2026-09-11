@@ -40,7 +40,7 @@ A selection of projects that represent my best work, skills, and learning journe
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Asma-CS/predictive-maintenance-agent">
+<a href="https://github.com/Asma-CS/Predictive-Maintenance-Agent">
   <img src="images/project1.jpeg" width="100%" alt="Predictive Maintenance Agent">
 </a>
 
